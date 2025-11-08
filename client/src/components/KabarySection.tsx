@@ -37,7 +37,7 @@ export default function KabarySection({
             </p>
           )}
         </CardHeader>
-        <CardContent className="prose prose-lg max-w-none">
+        <CardContent className="prose prose-lg max-w-none dark:prose-invert">
           {children}
         </CardContent>
       </Card>
