@@ -1,5 +1,6 @@
 import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 interface KabaryHeaderProps {
   onMenuClick?: () => void;
@@ -26,6 +27,7 @@ export default function KabaryHeader({ onMenuClick }: KabaryHeaderProps) {
             Kabary Malagasy Tradisional
           </p>
         </div>
+        <ThemeToggle />
       </div>
     </header>
   );
