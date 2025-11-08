@@ -507,7 +507,15 @@ export default function KabaryContent() {
         </p>
         
         <p className="leading-relaxed mt-4">
-          Ny olona maharitra amin'ny asany dia tsy maintsy mahita soa na eo amin'ny tenany, na eo amin'ny ankohonany ary eo amin'ny firenena aza, fa
+          Ny olona maharitra amin'ny asany dia tsy maintsy mahita soa na eo amin'ny tenany, na eo amin'ny ankohonany ary eo amin'ny firenena aza, fa ny olona tsy mahatombina amin'ny asany kosa, dia vadin'i Kotokely. Izany ny olona tsy saharan-dava, ho fandiranovana, tsy ahatombon-tsiraka fa hivezivezy tahaka ny firaka atakalo.
+        </p>
+        
+        <p className="leading-relaxed mt-4">
+          Koa faly miarahaba anao izahay ry Ray aman-dreny fa nahatody ny fe-potoana ho tratrarina teo amin'ny asanao hianao.
+        </p>
+        
+        <p className="leading-relaxed mt-4">
+          Fianarana lehibe ho anay rehetra izao koa dia irinay ny ahavita izay fandeferana lehibe nanananao nandritra ny taona maro teo amin'ny asanao.
         </p>
       </KabarySection>
     </div>
